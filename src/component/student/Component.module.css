@@ -1,0 +1,19 @@
+#navBlock{
+    background-color: aliceblue;
+    height: 70px;
+    width: 100%;
+    box-shadow: 1px 0px 4px 1px rgb(201, 163, 163);
+    }
+    
+    .navArticle{
+        background-color: aliceblue;
+        height: 70px;
+        display: flex;
+        margin: 0 auto;
+        justify-content: space-between;
+        width: 85%;
+        align-items: center;
+    
+    
+    }
+    
